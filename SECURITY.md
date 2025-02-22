@@ -2,7 +2,7 @@
 
 ## Reporting Vulnerabilities
 Found a security flaw in Dark Reaper Soul? Let’s fix it together:
-- **Email**: [your.email@gmail.com] (replace with your email)
+- **Email**: devaliyaajay5@gmail.com (replace with your email)
 - **Details**: Include a description, steps to reproduce, and impact.
 - **Response**: Expect a reply within 48 hours—we’ll triage and patch ASAP.
 
