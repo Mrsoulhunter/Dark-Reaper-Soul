@@ -77,3 +77,10 @@
    Red teaming enthusiast | OSINT wizard | Digital forensics ninja  
    Follow my chaos on GitHub and join the revolution.
 
+   ---
+## 📸 Screenshots
+![Tool Image](images/tool%20image.png)  
+![Attack Mode](images/attack%20mode.png)  
+![Terminal Output 2](images/terminal%20output2.png) 
+![Terminal Output](images/terminal%20output.png)
+
